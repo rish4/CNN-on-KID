@@ -23,6 +23,9 @@ It can be seen that after 25 epochs the validation accuracy is 0.9287, it shows 
 Visualisation of results:
 1.	The first plot shows the dependence of loss and validation loss on the number of epochs during the testing.
 2.	The second plot shows the dependence of accuracy and validation accuracy on the number of epochs during the testing.
+3.  Confusion Matrix and Classification report can be seen which help in better visualisation of the results. 
+
+
 
 
 

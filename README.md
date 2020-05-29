@@ -18,7 +18,7 @@ The images of the training set are augmented so that the model can learn from mo
 It took the model around 40 minutes to train and it was run on google colab.
 
 Results:
-It can be seen that after 25 epochs the validation accuracy is 0.9287, it shows the ability of the model to generalize to new data.
+It can be seen that after 25 epochs the validation accuracy is 0.9187, it shows the ability of the model to generalize to new data.
 
 Visualisation of results:
 1.	The first plot shows the dependence of loss and validation loss on the number of epochs during the testing.
